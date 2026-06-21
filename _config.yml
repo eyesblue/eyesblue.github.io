@@ -1,5 +1,5 @@
-title: 紀念日計算器
-description: 紀念日計算器的使用說明與最新資訊
+title: Eyes Blue Docs
+description: 記錄各個專案的建置流程、設定步驟與開發筆記
 theme: just-the-docs
 
 lang: zh-TW
@@ -9,5 +9,4 @@ heading_anchors: true
 
 back_to_top: true
 back_to_top_text: 回到頁首
-footer_content: "Copyright &copy; 2026 紀念日計算器。"
-
+footer_content: "Copyright &copy; 2026 Eyes Blue Docs."
