@@ -8,7 +8,7 @@ nav_order: 1
 
 快速查詢紀念日、日期間隔與相關日期資訊。
 
-[開始使用](getting-started.md){: .btn .btn-primary }
+[開始使用]({% link getting-started.md %}){: .btn .btn-primary }
 
 ## 網站內容
 
@@ -17,4 +17,3 @@ nav_order: 1
 - 常見問題與問題回報方式
 
 此網站使用 [Just the Docs](https://just-the-docs.com/) 建立，並由 GitHub Pages 發布。
-
