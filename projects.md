@@ -10,7 +10,6 @@ has_children: true
 
 ## 目前頁面
 
-- [紀念日計算器]({% link memorial-days-calculator.md %})
 - [專案模板]({% link project-template.md %})
 
 ## 建議維護方式
