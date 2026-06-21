@@ -14,7 +14,7 @@
 
 3. 打開 repository 的 `Settings` → `Pages`。
 4. 在 `Build and deployment` 的 `Source` 選擇 `GitHub Actions`。
-5. 打開 `Actions`，確認 `Deploy Jekyll site to Pages` 成功。
+5. 打開 `Actions`，確認 `Deploy Jekyll site to Pages` 成功。若第一次執行發生在 Pages 啟用之前而失敗，請按 `Re-run all jobs`。
 
 網站網址通常是 `https://<你的帳號>.github.io/<repository名稱>/`。若 repository 名稱是 `<你的帳號>.github.io`，網址則是 `https://<你的帳號>.github.io/`。
 
@@ -27,4 +27,3 @@ docker run --rm -it -p 4000:4000 -v "${PWD}:/srv/jekyll" -w /srv/jekyll ruby:3.3
 ```
 
 然後開啟 `http://localhost:4000`。
-
